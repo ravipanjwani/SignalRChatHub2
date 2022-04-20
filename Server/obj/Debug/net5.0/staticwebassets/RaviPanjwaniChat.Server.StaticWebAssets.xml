@@ -1,0 +1,5 @@
+﻿<StaticWebAssets Version="1.0">
+  <ContentRoot BasePath="/" Path="D:\St clair\Sem2\ASPdotnet\RaviPanjwaniChat\Client\bin\Debug\net5.0\wwwroot\" />
+  <ContentRoot BasePath="/" Path="D:\St clair\Sem2\ASPdotnet\RaviPanjwaniChat\Client\obj\Debug\net5.0\scopedcss\bundle\" />
+  <ContentRoot BasePath="/" Path="D:\St clair\Sem2\ASPdotnet\RaviPanjwaniChat\Client\wwwroot\" />
+</StaticWebAssets>

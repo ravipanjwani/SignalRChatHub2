@@ -1,0 +1,12 @@
+D:\St clair\Sem2\ASPdotnet\RaviPanjwaniChat\Shared\bin\Debug\net5.0\RaviPanjwaniChat.Shared.deps.json
+D:\St clair\Sem2\ASPdotnet\RaviPanjwaniChat\Shared\bin\Debug\net5.0\RaviPanjwaniChat.Shared.dll
+D:\St clair\Sem2\ASPdotnet\RaviPanjwaniChat\Shared\bin\Debug\net5.0\ref\RaviPanjwaniChat.Shared.dll
+D:\St clair\Sem2\ASPdotnet\RaviPanjwaniChat\Shared\bin\Debug\net5.0\RaviPanjwaniChat.Shared.pdb
+D:\St clair\Sem2\ASPdotnet\RaviPanjwaniChat\Shared\obj\Debug\net5.0\RaviPanjwaniChat.Shared.csproj.AssemblyReference.cache
+D:\St clair\Sem2\ASPdotnet\RaviPanjwaniChat\Shared\obj\Debug\net5.0\RaviPanjwaniChat.Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\St clair\Sem2\ASPdotnet\RaviPanjwaniChat\Shared\obj\Debug\net5.0\RaviPanjwaniChat.Shared.AssemblyInfoInputs.cache
+D:\St clair\Sem2\ASPdotnet\RaviPanjwaniChat\Shared\obj\Debug\net5.0\RaviPanjwaniChat.Shared.AssemblyInfo.cs
+D:\St clair\Sem2\ASPdotnet\RaviPanjwaniChat\Shared\obj\Debug\net5.0\RaviPanjwaniChat.Shared.csproj.CoreCompileInputs.cache
+D:\St clair\Sem2\ASPdotnet\RaviPanjwaniChat\Shared\obj\Debug\net5.0\RaviPanjwaniChat.Shared.dll
+D:\St clair\Sem2\ASPdotnet\RaviPanjwaniChat\Shared\obj\Debug\net5.0\ref\RaviPanjwaniChat.Shared.dll
+D:\St clair\Sem2\ASPdotnet\RaviPanjwaniChat\Shared\obj\Debug\net5.0\RaviPanjwaniChat.Shared.pdb
